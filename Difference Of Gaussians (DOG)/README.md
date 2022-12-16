@@ -1,3 +1,5 @@
+It is a filter used to exract the edges (high frequency components), It is a high pass filter.
+
 ## For convolution meaning:
 ```
 help conv
